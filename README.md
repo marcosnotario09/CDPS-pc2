@@ -1,1 +1,1 @@
-# CDPS-pc2
+Para ser usado python pc2.py
